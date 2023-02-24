@@ -13,3 +13,16 @@ PT站用户通过智能合约参与站点管理。以区块链技术保证数据
 6. [智能合约]撤销管理投票
 7. [智能合约]管理选举投票
 8. [智能合约]管理任命投票
+
+### 基本概念
+#### CPN（C-Plan Net）
+C计划私有链
+#### CPNE （C-Planer）
+CPN的基础代币，主要用于支付使用CPN的费用。每个通过认证的用户都会被分配。无其他作用和价值。
+#### DM （DiaoMao-PT）
+DiaoMaoPT站，用于验证C-Plan的PT站
+#### DMC （DiaoMaoCoin）
+DiaoMaoPT站，利用CPN智能合约发行的代币，无法交易。用于站点权益投票。
+#### CPC （C-Plan Control）
+用于链接PT站和CPN的程序
+
