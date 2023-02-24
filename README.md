@@ -25,4 +25,8 @@ DiaoMaoPT站，用于验证C-Plan的PT站
 DiaoMaoPT站，利用CPN智能合约发行的代币，无法交易。用于站点权益投票。
 #### CPC （C-Plan Control）
 用于链接PT站和CPN的程序
+#### CPN-Browser
+CPN的区块浏览器
+#### CPN-Client
+CPN的用户客户端，用于用户直接和CPN交互
 
