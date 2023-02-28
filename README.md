@@ -19,7 +19,7 @@ PT站用户通过智能合约参与站点管理。以区块链技术保证数据
 #### CPN（C-Plan Net）
 C计划私有链
 #### CPNE （C-Planer）
-CPN的基础代币，主要用于支付使用CPN的费用。每个通过认证的用户都会被分配。无其他作用和价值。
+CPN的基础代币，主要用于支付使用CPN的费用（代表了对CPN的使用权）。每个通过认证的用户都会被少量分配。
 #### DM （DiaoMao-PT）
 DiaoMaoPT站，用于验证C-Plan的PT站
 #### DMC （DiaoMaoCoin）
